@@ -1,10 +1,17 @@
 body {
+  font-family: 'Gowun Dodum', cursive;
   font-size: 17px;
+  font-weight: 600;
 }
 h1 {
   font-weight: 700;
 }
 .name {
   font-size: 22px;
-  font-weight: 600;
+  font-weight: 700;
+}
+.date {
+  font-family: 'Gowun Batang', cursive;
+  font-size: 17px;
+  font-weight: 400;
 }
